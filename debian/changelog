@@ -1,3 +1,8 @@
+qtscript-opensource-src (5.11.3+dfsg-3) UNRELEASED; urgency=medium
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Mar 2019 11:22:13 +0300
+
 qtscript-opensource-src (5.11.3+dfsg-2) unstable; urgency=medium
 
   [ Dmitry Shachnev ]
