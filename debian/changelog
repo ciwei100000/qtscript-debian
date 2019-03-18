@@ -1,5 +1,7 @@
 qtscript-opensource-src (5.11.3+dfsg-3) UNRELEASED; urgency=medium
 
+  [ Dmitry Shachnev ]
+  * Add upstream patch to fix build with GCC 8.3 (closes: #924846).
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Mar 2019 11:22:13 +0300
 
