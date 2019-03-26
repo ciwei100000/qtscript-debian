@@ -1,3 +1,10 @@
+qtscript-opensource-src (5.12.2+dfsg-1) UNRELEASED; urgency=medium
+
+  [ Dmitry Shachnev ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Mar 2019 22:56:49 +0300
+
 qtscript-opensource-src (5.11.3+dfsg-3) unstable; urgency=medium
 
   * Add upstream patch to fix build with GCC 8.3 (closes: #924846).
