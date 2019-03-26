@@ -1,6 +1,5 @@
-qtscript-opensource-src (5.12.2+dfsg-1) UNRELEASED; urgency=medium
+qtscript-opensource-src (5.12.2+dfsg-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Drop asm_no_volatile.diff, included in the new release.
   * Rebase s390x_jscore.diff.
@@ -9,7 +8,7 @@ qtscript-opensource-src (5.12.2+dfsg-1) UNRELEASED; urgency=medium
   * Install one new header (qtscript-config.h).
   * Add Qt_5.12 version tag to the symbols files.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Mar 2019 22:56:49 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Tue, 26 Mar 2019 23:58:16 +0300
 
 qtscript-opensource-src (5.11.3+dfsg-3) unstable; urgency=medium
 
