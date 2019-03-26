@@ -4,6 +4,7 @@ qtscript-opensource-src (5.12.2+dfsg-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Drop asm_no_volatile.diff, included in the new release.
   * Rebase s390x_jscore.diff.
+  * Bump Qt build-dependencies to 5.12.2.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Mar 2019 22:56:49 +0300
 
