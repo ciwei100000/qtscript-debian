@@ -30,6 +30,7 @@ usr/include/*/qt5/QtScript/qscriptprogram.h
 usr/include/*/qt5/QtScript/qscriptstring.h
 usr/include/*/qt5/QtScript/qscriptvalue.h
 usr/include/*/qt5/QtScript/qscriptvalueiterator.h
+usr/include/*/qt5/QtScript/qtscript-config.h
 usr/include/*/qt5/QtScript/qtscriptglobal.h
 usr/include/*/qt5/QtScript/qtscriptversion.h
 usr/include/*/qt5/QtScriptTools/QScriptEngineDebugger
