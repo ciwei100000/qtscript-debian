@@ -5,6 +5,7 @@ qtscript-opensource-src (5.12.2+dfsg-1) UNRELEASED; urgency=medium
   * Drop asm_no_volatile.diff, included in the new release.
   * Rebase s390x_jscore.diff.
   * Bump Qt build-dependencies to 5.12.2.
+  * Remove dh_auto_test override, QT_LOGGING_RULES is no longer needed.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Mar 2019 22:56:49 +0300
 
