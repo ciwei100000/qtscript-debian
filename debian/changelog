@@ -1,4 +1,4 @@
-qtscript-opensource-src (5.12.4+dfsg-1) UNRELEASED; urgency=medium
+qtscript-opensource-src (5.12.4+dfsg-1) experimental; urgency=medium
 
   [ Scarlett Moore ]
   * Update packaging to use doc-base as per policy 9.10.
@@ -9,7 +9,7 @@ qtscript-opensource-src (5.12.4+dfsg-1) UNRELEASED; urgency=medium
   * Update Homepage URL.
   * Rewrite debian/copyright.
 
- -- Scarlett Moore <sgmoore@kde.org>  Mon, 06 May 2019 09:45:20 -0700
+ -- Dmitry Shachnev <mitya57@debian.org>  Tue, 02 Jul 2019 16:42:01 +0300
 
 qtscript-opensource-src (5.12.2+dfsg-1) experimental; urgency=medium
 
