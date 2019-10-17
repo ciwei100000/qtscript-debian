@@ -1,13 +1,12 @@
-qtscript-opensource-src (5.12.5+dfsg-1) UNRELEASED; urgency=medium
+qtscript-opensource-src (5.12.5+dfsg-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Add Build-Depends-Package field to the symbols files.
   * Bump Qt build-dependencies to 5.12.5.
   * Use debian/not-installed instead of a custom override target.
   * Bump Standards-Version to 4.4.1, no changes needed.
 
- -- Scarlett Moore <sgmoore@kde.org>  Fri, 09 Aug 2019 17:59:25 -0700
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 17 Oct 2019 12:24:57 +0300
 
 qtscript-opensource-src (5.12.4+dfsg-1) experimental; urgency=medium
 
