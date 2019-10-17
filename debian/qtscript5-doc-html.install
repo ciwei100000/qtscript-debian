@@ -1,12 +1,2 @@
-usr/share/qt5/doc/qtscript/*.html
-usr/share/qt5/doc/qtscript/images/
-usr/share/qt5/doc/qtscript/qtscript.index
-usr/share/qt5/doc/qtscript/qtscript.qhp
-usr/share/qt5/doc/qtscript/qtscript.qhp.sha1
-usr/share/qt5/doc/qtscript/style/
-usr/share/qt5/doc/qtscripttools/*.html
-usr/share/qt5/doc/qtscripttools/images/
-usr/share/qt5/doc/qtscripttools/qtscripttools.index
-usr/share/qt5/doc/qtscripttools/qtscripttools.qhp
-usr/share/qt5/doc/qtscripttools/qtscripttools.qhp.sha1
-usr/share/qt5/doc/qtscripttools/style/
+usr/share/qt5/doc/qtscript/
+usr/share/qt5/doc/qtscripttools/
