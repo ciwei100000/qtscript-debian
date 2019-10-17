@@ -2,6 +2,7 @@ qtscript-opensource-src (5.12.5+dfsg-1) UNRELEASED; urgency=medium
 
   [ Dmitry Shachnev ]
   * New upstream release.
+  * Add Build-Depends-Package field to the symbols files.
 
  -- Scarlett Moore <sgmoore@kde.org>  Fri, 09 Aug 2019 17:59:25 -0700
 

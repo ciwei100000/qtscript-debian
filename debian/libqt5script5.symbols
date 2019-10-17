@@ -1,6 +1,7 @@
 # SymbolsHelper-Confirmed: 5.12.2 amd64
 libQt5Script.so.5 libqt5script5 #MINVER#
 | libqt5script5 #MINVER#, qtscript-abi-5-6-0
+* Build-Depends-Package: qtscript5-dev
  Qt_5.0@Qt_5.0 5.6.0~beta
  Qt_5.10@Qt_5.10 5.10.2
  Qt_5.11@Qt_5.11 5.11.1
