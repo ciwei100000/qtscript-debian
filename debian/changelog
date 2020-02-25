@@ -4,6 +4,7 @@ qtscript-opensource-src (5.14.1+dfsg-1) UNRELEASED; urgency=medium
   * New upstream release.
     - Bump Qt build dependencies.
   * Update Standards-Version to 4.5.0, no changes required.
+  * Switch to debhelper compat 12, using debhelper-compat as a build ependency.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 25 Feb 2020 20:08:11 -0300
 
