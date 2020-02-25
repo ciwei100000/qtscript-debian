@@ -5,6 +5,8 @@ qtscript-opensource-src (5.14.1+dfsg-1) UNRELEASED; urgency=medium
     - Bump Qt build dependencies.
   * Update Standards-Version to 4.5.0, no changes required.
   * Switch to debhelper compat 12, using debhelper-compat as a build ependency.
+  * Replace renamed lintian override insane-line-length-in-source-file to
+    very-long-line-length-in-source-file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 25 Feb 2020 20:08:11 -0300
 
