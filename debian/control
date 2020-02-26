@@ -53,7 +53,7 @@ Multi-Arch: same
 Pre-Depends: dpkg (>= 1.15.6~)
 Depends: libqt5script5 (= ${binary:Version}),
          libqt5scripttools5 (= ${binary:Version}),
-         qtbase5-dev,
+         qtbase5-dev | qtbase5-gles-dev,
          ${misc:Depends}
 Description: Qt 5 script development files
  Qt is a cross-platform C++ application framework. Qt's primary feature
