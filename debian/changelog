@@ -10,6 +10,7 @@ qtscript-opensource-src (5.14.1+dfsg-1) UNRELEASED; urgency=medium
   * Set Rules-Requires-Root: no.
   * Make qtscript-dev dependency on qtbase5-dev conditional with
     qtbase5-gles-dev.
+  * Update symbols files with current build log.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 25 Feb 2020 20:08:11 -0300
 
