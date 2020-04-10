@@ -1,3 +1,9 @@
+qtscript-opensource-src (5.12.8+dfsg-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Dmitry Shachnev <mitya57@ubuntu.com>  Fri, 10 Apr 2020 11:31:47 +0300
+
 qtscript-opensource-src (5.12.5+dfsg-2build1) focal; urgency=medium
 
   * No-change rebuild for libgcc-s1 package name change.
