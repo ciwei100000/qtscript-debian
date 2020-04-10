@@ -1,6 +1,7 @@
 qtscript-opensource-src (5.12.8+dfsg-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release.
+  * Bump Qt build-dependencies to 5.12.8.
 
  -- Dmitry Shachnev <mitya57@ubuntu.com>  Fri, 10 Apr 2020 11:31:47 +0300
 
