@@ -6,6 +6,7 @@ qtscript-opensource-src (5.14.2+dfsg-1) UNRELEASED; urgency=medium
   * Update debian/copyright for upstream LGPL-2.1 → LGPL-3 or GPL change.
   * Update to debhelper compat level 13.
     - Drop dh_missing override, --fail-missing is now the default.
+  * Remove -Wl,--as-needed flag, it is the default in Bullseye.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 May 2020 14:59:34 +0300
 
