@@ -4,6 +4,8 @@ qtscript-opensource-src (5.14.2+dfsg-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Qt build-dependencies to 5.14.2.
   * Update debian/copyright for upstream LGPL-2.1 → LGPL-3 or GPL change.
+  * Update to debhelper compat level 13.
+    - Drop dh_missing override, --fail-missing is now the default.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 May 2020 14:59:34 +0300
 
