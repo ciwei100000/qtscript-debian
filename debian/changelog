@@ -1,3 +1,9 @@
+qtscript-opensource-src (5.14.2+dfsg-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 24 Jun 2020 12:42:07 +0300
+
 qtscript-opensource-src (5.14.2+dfsg-1) experimental; urgency=medium
 
   * New upstream release.
