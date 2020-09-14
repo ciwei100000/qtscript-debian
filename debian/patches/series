@@ -2,3 +2,4 @@ disable_failing_tests.diff
 disable_v8_sunspider_tests.patch
 s390x_jscore.diff
 hppa_stackbase.diff
+LTO_cti_vm_throw.diff
