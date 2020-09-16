@@ -4,6 +4,7 @@ qtscript-opensource-src (5.15.1+dfsg-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Qt build-dependencies to 5.15.1.
   * Use ${DEB_HOST_MULTIARCH} substitution in the install files.
+  * Add Qt_5.15 version tag to the symbols files.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 16 Sep 2020 21:04:35 +0300
 
