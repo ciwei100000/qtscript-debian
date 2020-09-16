@@ -11,8 +11,8 @@ Uploaders: Sune Vuorela <debian@pusling.com>,
 Build-Depends: debhelper-compat (= 13),
                dpkg-dev (>= 1.17.14),
                pkg-kde-tools (>= 0.15.17~),
-               qtbase5-private-dev (>= 5.14.2+dfsg~)
-Build-Depends-Indep: qttools5-dev-tools (>= 5.14.2~) <!nodoc>
+               qtbase5-private-dev (>= 5.15.1+dfsg~)
+Build-Depends-Indep: qttools5-dev-tools (>= 5.15.1~) <!nodoc>
 Rules-Requires-Root: no
 Standards-Version: 4.5.0
 Homepage: https://doc.qt.io/qt-5/qtscript-index.html
