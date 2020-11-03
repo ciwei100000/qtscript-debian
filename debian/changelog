@@ -1,3 +1,10 @@
+qtscript-opensource-src (5.15.1+dfsg-3) UNRELEASED; urgency=medium
+
+  * Apply multi-arch hints.
+    + qtscript5-doc, qtscript5-doc-html: Add Multi-Arch: foreign.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 03 Nov 2020 23:23:42 -0000
+
 qtscript-opensource-src (5.15.1+dfsg-2) unstable; urgency=medium
 
   * Update debian/libqt5script5.symbols from buildds’ logs.
