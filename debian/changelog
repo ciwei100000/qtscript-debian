@@ -7,6 +7,8 @@ qtscript-opensource-src (5.15.2+dfsg-1) UNRELEASED; urgency=medium
   [ Dmitry Shachnev ]
   * New upstream release.
   * Bump Qt build-dependencies to 5.15.2.
+  * Build-depend only on the needed documentation tools, not on the
+    large qttools5-dev-tools package.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 03 Nov 2020 23:23:42 -0000
 
